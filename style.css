@@ -1,0 +1,28 @@
+body{
+    background-color: aqua
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+h2 {
+    font-family:fantasy;
+    font-size: 38px;
+}
+
+a {
+    font-family:fantasy;
+    font-size: 26px;
+    color:black;
+}
+
+img,{
+    border-bottom-style: solid;
+    border-color: yellow;
+    border-bottom-width: thick
+  
+}
+
