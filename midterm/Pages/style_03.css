@@ -1,0 +1,21 @@
+html { 
+  background: url(blue%20copy.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+<style type="text/css">
+.test{text-align:center}
+.test ul{
+	display:inline-block;
+	text-align:left;
+}
+* html .test ul{display:inline}/* ie6 inline-block fix */
+*+html .test ul{display:inline}/* ie7 inline-block fix */
+</style>
+
+h1,h2,h3,title,header{
+    font-family: "Comi Sans MS", cursive;
+}
