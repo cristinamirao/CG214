@@ -1,0 +1,59 @@
+img class="logo"
+{width: 608px;
+    height: 60px;
+margin-top: 0px;
+margin-left: 315px;
+margin-right: 100px;
+margin-bottom: 50px;
+padding:3}
+
+
+
+
+#header {
+    width: 100%;
+    padding-left: 20px;
+}
+
+#container
+{width: 1000px;
+    height: 820px;
+    margin-left: auto;
+    margin-right: auto;
+/*
+margin-top: -40px;
+margin-left: 215px;
+margin-right: 100px;
+margin-bottom: 50px;
+*/
+padding:30px;
+    background: yellow;
+    
+}
+
+div class="profile"
+{ width: 100px;
+height: 100px;
+margin-left: 1555px;
+margin-right: 100px;
+margin-bottom: 100px;}
+
+div class="photos"
+ {width: 608px;
+    height: 820px;
+margin-left: 315px;
+margin-right: 100px;
+margin-bottom: 50px;
+    padding:30px}
+
+img{
+;
+    width: 200px;
+    height: 200px;
+}
+
+img class="red"
+{  width: 100px;
+    height: 100px;
+   
+}
