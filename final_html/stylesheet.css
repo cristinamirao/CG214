@@ -1,0 +1,45 @@
+span
+{ 
+width:1000px;}
+
+body
+{
+    
+}
+
+h1
+{ font-family: sans-serif;
+   text-align: center; 
+   color: white;
+    padding-top: 50PX;
+    padding-bottom: 50PX;
+
+}
+
+div
+{  
+  position:absolute;
+  color: black; font-family:sans-serif;
+left: 430px;
+    background-color: hotpink;
+    
+    background-blend-mode: screen;
+
+    font-size: 30px;
+    font-feature-settings: normal;
+    
+}
+
+video {
+  
+    position:center;
+        
+    object-fit: fill;
+    
+    z-index: -1
+}
+
+body
+{
+    background: ="color:black">
+}

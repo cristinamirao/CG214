@@ -1,0 +1,78 @@
+
+
+h1
+{ font-family: sans-serif;
+   text-align: center; 
+    
+   color: white;
+    font-size: 200px;
+    padding-top: 150X;
+    padding-bottom: 50PX;
+
+}
+
+body
+{ background-image;background-image:url(stars.gif);
+  
+}
+
+
+div class="lindsay"
+{  
+  position:absolute;
+object-fit: fill;
+ border-bottom-color: blueviolet;
+    border-top-color: blueviolet;
+    padding: 200px;
+        align-content: center;
+    background-blend-mode: overlay;
+    z-index: 1;
+
+    
+}
+    
+
+div class="button"
+{  
+ width: 300px;
+}
+
+div
+{
+        
+  position:absolute;
+  color: black; font-family:sans-serif;
+left: 830px;
+    align-content: center;
+    background-color: darkblue;
+    border-bottom-color: darkblue;
+    border-top-color: darkblue;
+    border-bottom-width: thick;
+    border-top-width: thick;
+    background-blend-mode: screen;
+ padding-left: 200px;
+}
+
+.lindsay
+{ transition-property:all;
+    transition-timing-function: all 3s ease-in-out;
+  transition-duration: 3s;
+}
+
+
+
+}
+video {
+  
+    position: absolute;
+        
+    object-fit:fill;
+    counter-reset: inherit;
+    
+    z-index: -1
+}
+
+body
+{
+    background: ="color:black">
+}
